@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rishabh</groupId>
-	<artifactId>springsecurity</artifactId>
+	<artifactId>notesApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springsecurity</name>
 	<description>Demo project for Spring Boot</description>
